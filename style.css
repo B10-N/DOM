@@ -1,0 +1,26 @@
+body{
+    background-color: aquamarine;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+#ca1{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    
+}
+#ca2{
+    background-color: black;
+    width: 200px;
+    height: 200px;
+
+}
+#ca3{
+    background-color: green;
+    width: 200px;
+    height: 200px;
+
+}
